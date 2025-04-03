@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @iyioaoy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+坚持 Internet 的自由,开放,平等,分享精神!分享:科学上网,软件应用,免费节点,机场搭建,软路由,虚拟化,NAS等教程。
 
-<!---
-iyioaoy/iyioaoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+http://www.iyio.net
+
